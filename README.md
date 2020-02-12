@@ -1,2 +1,2 @@
-# capstone-project
-Final project for the Data Access and Regulation exam
+# Anxiety on social media 
+ A study on how mental health issues such as anxiety is shared on Twitter
